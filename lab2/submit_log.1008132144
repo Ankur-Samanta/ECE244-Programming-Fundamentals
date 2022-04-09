@@ -1,0 +1,16 @@
+Submitting assignment 2 from legacy.ecf.utoronto.ca
+Checking for the expected files in the current directory
+playMove.cpp GameState.cpp tictactoe.cpp
+Attempting to build your code.  Make output follows:
+==================================================================
+g++ -I/u/course/ece244i/public/2/common -Wall -Wextra -pedantic -std=c++11 -c playMove.cpp -o playMove.o
+------------------------------------------------------------------
+The build appears to have failed.  See the make output for
+more information about the details of the error.
+------------------------------------------------------------------
+This assignment did not compile.
+It will not receive any functionality marks.
+Do want to submit anyways? (y/n): n
+
+No files were submitted
+
